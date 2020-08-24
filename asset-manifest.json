@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/facebook-react/static/css/main.60efdadd.chunk.css",
+    "main.js": "/facebook-react/static/js/main.930e8949.chunk.js",
+    "main.js.map": "/facebook-react/static/js/main.930e8949.chunk.js.map",
+    "runtime-main.js": "/facebook-react/static/js/runtime-main.7239589e.js",
+    "runtime-main.js.map": "/facebook-react/static/js/runtime-main.7239589e.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/facebook-react/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.5860d711.chunk.js": "/facebook-react/static/js/2.5860d711.chunk.js",
+    "static/js/2.5860d711.chunk.js.map": "/facebook-react/static/js/2.5860d711.chunk.js.map",
+    "index.html": "/facebook-react/index.html",
+    "precache-manifest.2c48fb136d96cdd722cb911f5d3f87e2.js": "/facebook-react/precache-manifest.2c48fb136d96cdd722cb911f5d3f87e2.js",
+    "service-worker.js": "/facebook-react/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/facebook-react/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.60efdadd.chunk.css.map": "/facebook-react/static/css/main.60efdadd.chunk.css.map",
+    "static/js/2.5860d711.chunk.js.LICENSE.txt": "/facebook-react/static/js/2.5860d711.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/facebook-react/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7239589e.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.5860d711.chunk.js",
+    "static/css/main.60efdadd.chunk.css",
+    "static/js/main.930e8949.chunk.js"
+  ]
+}
